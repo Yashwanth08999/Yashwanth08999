@@ -41,22 +41,62 @@
 
 ## 🚀 Projects
 
-### 🤖 [Jarvis — Virtual Assistant](https://github.com/Yashwanth08999/Jarvis)
-A voice-powered personal assistant built with Python. Responds to voice commands to perform tasks like web searches, telling time/date, opening applications, and more.
+### 🛒 Subzi — Online Vegetable Shopping Platform
 
-**Tech:** Python · SpeechRecognition · pyttsx3 · HTML
+A web-based vegetable shopping platform that allows users to browse products, add items to cart, and place orders through an intuitive interface.
+
+**Key Features:**
+- Product catalog with categories
+- Shopping cart functionality
+- Responsive user interface
+- User-friendly navigation
+- Real-world e-commerce workflow
+
+**Tech:** HTML · CSS · JavaScript · Python (if used) · Database (if used)
+
+🔗 Live Demo: https://your-subzi.vercel.app
+📂 Repository: https://github.com/Yashwanth08999/subzi
 
 ---
 
-### 🧠 [CODSOFT — Python Projects](https://github.com/Yashwanth08999/CODSOFT)
-A collection of Python projects completed during the CodSoft internship, covering core programming concepts and real-world problem solving.
+### 🤖 Jarvis — Virtual Assistant
+
+A voice-powered personal assistant developed using Python that performs tasks based on user voice commands.
+
+**Key Features:**
+- Speech recognition for voice input
+- Text-to-speech responses
+- Opens applications and websites
+- Provides date and time information
+- Performs web searches
+
+**Tech:** Python · SpeechRecognition · pyttsx3
+
+---
+
+### 🧠 CODSOFT — Python Projects
+
+A collection of Python applications developed during the CodSoft internship to strengthen programming fundamentals and problem-solving skills.
+
+**Highlights:**
+- Object-oriented programming concepts
+- File handling and data processing
+- User-interactive console applications
+- Logical problem-solving exercises
 
 **Tech:** Python
 
 ---
 
-### 🎨 [OctaNet — Web Development](https://github.com/Yashwanth08999/OCTANET_AUGUST)
-Web development tasks completed during the OctaNet internship, focusing on front-end design and responsiveness.
+### 🎨 OctaNet — Web Development
+
+Developed responsive web pages and front-end interfaces during the OctaNet internship, focusing on modern design principles and user experience.
+
+**Highlights:**
+- Responsive layouts
+- Clean UI design
+- HTML and CSS best practices
+- Cross-device compatibility
 
 **Tech:** HTML · CSS
 
