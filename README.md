@@ -54,7 +54,7 @@ A web-based vegetable shopping platform that allows users to browse products, ad
 
 **Tech:** HTML · CSS · JavaScript · Python (if used) · Database (if used)
 
-🔗 Live Demo: https://your-subzi.vercel.app
+🔗 Live Demo: https://subzi.vercel.app/
 📂 Repository: https://github.com/Yashwanth08999/subzi
 
 ---
